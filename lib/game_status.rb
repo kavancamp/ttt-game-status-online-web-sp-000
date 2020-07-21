@@ -14,4 +14,4 @@ WIN_COMBINATIONS = [
   [0,4,8], # left diagonal
   [6,4,2]
 ]
-end
+
