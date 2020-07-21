@@ -12,6 +12,6 @@ WIN_COMBINATIONS = [
   [1,4,7], # center
   [2,5,8], # right
   [0,4,8], # left diagonal
-  [6,4,2] 
-] 
+  [6,4,2]
+]
 end
